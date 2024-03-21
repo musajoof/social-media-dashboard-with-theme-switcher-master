@@ -1,0 +1,33 @@
+[
+  {
+    "facebook": 1665,
+    "followers": 3000,
+    "like": 200,
+    "frofileviews": 100,
+    "totalviews": 10000,
+    "pageviews": 254
+  },
+  {
+    "twitter": 2123,
+    "followers": 98,
+    "like": 80,
+    "frofileviews": 76,
+    "totalviews": 100,
+    "reteews": 2000
+  },
+  {
+    "instagram": 1008,
+    "followers": 2001,
+    "like": 300,
+    "frofileviews": 70,
+    "totalviews": 300
+  },
+  {
+    "youtube": 1980,
+    "followers": 5000,
+    "like": 400,
+    "frofileviews": 50,
+    "totalviews": 5800
+  }
+  
+]
